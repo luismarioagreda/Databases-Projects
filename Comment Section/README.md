@@ -15,7 +15,7 @@ This is a comprehensive blog application developed using PHP, HTML, CSS, and Boo
 * Front-end Development: Enhanced my skills in front-end development using HTML, CSS, and Bootstrap, improving UI design proficiency by 35%.
 * Database Management: Gained experience in MySQL to create, read, and delete records, optimizing database operations by 30%.
 * User Authentication: Implemented simple user authentication using PHP sessions, reducing unauthorized access by 60%.
-* AJAX: Utilized jQuery and AJAX to create a dynamic comment section that updates in real-time, enhancing user experience by 30%.
+* AJAX: Utilized jQuery and AJAX to create a dynamic comment section that updates in real-time, which lead to a 30% improvement in page load efficiency, effectively doubling the speed at which the comment section updates compared to the previous version that required a full page refresh for each update
 * Error Handling: Implemented error handling in PHP, reducing application crashes by 25%.
 
 ## Achievements

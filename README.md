@@ -1,4 +1,4 @@
-# DATABASE PROJECTS
+# Database Projects
 Repository with all my projects involving SQL and Databases
 
 ## Programming Languages and Software used:
